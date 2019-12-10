@@ -8,9 +8,8 @@ You can view the raw ipynb file here.
 https://github.com/nickaustin37/665_Final/blob/master/Austin_N_Final_Project.ipynb
 
 Plotly charts do not view in the raw ipynb file.
-You can view the working files in either of these locations. 
-
+You can view the working file here. 
 https://nbviewer.jupyter.org/github/nickaustin37/665_Final/blob/master/Austin_N_Final_Project.ipynb#Plotting
-https://github.com/nickaustin37/665_Final/blob/master/Austin_N_Final_Project.html
+
 
 
